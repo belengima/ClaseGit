@@ -14,3 +14,6 @@ hago cambios en el proyecto
 
 git add . (me lo pasa cambiado al staging area)
 git commit -m "cambios nuevos" (para subir nueva version)
+git push (para subir esos cambios)
+
+repetir estos tres comandos para actualizar cambios
