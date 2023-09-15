@@ -3,6 +3,14 @@ git config --global user.name "usuarioDeGithub"
 git config --global user.email emailDEGithub
 git config --global -e
 
-
+git commit -m primer commit (crear una copia)
 git add . (pasa todos los archivos al area de ensayo)
 git status (estado de los archivos)
+git branch -M main
+git remote add origin https://github.com/belengima/ClaseGit.git
+git push -u origin main (subir los archivos del repo local a Github)
+
+hago cambios en el proyecto
+
+git add . (me lo pasa cambiado al staging area)
+git commit -m "cambios nuevos" (para subir nueva version)
